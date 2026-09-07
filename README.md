@@ -4,7 +4,6 @@ A modern, responsive personal portfolio website built using **HTML, CSS, and Jav
 
 This project was developed as part of my **Frontend Development Internship**.
 
----
 
 ## 👩‍💻 About Me
 
@@ -14,7 +13,6 @@ I enjoy building practical applications and continuously improving my programmin
 
 I'm currently exploring software development, Machine Learning, Artificial Intelligence, and open-source contribution.
 
----
 
 ## ✨ Features
 
@@ -32,8 +30,6 @@ I'm currently exploring software development, Machine Learning, Artificial Intel
 - 🐙 GitHub profile
 - 🎓 Education timeline
 - 🌐 Responsive layout for desktop, tablet, and mobile
-
----
 
 ## 📂 Website Sections
 
@@ -77,7 +73,6 @@ Provides information about my interests, background, current focus, and learning
 - OOP
 - Problem Solving
 
----
 
 ## 🚀 Projects
 
@@ -91,7 +86,6 @@ An intelligent scheduling system that generates optimized timetables while handl
 - Streamlit
 - Excel Export
 
----
 
 ### 2. 🕵️ Fake & Real Profile Detection
 
@@ -107,7 +101,6 @@ A machine learning classification system designed to detect suspicious profiles 
 
 **Model Accuracy:** 90%
 
----
 
 ### 3. 🖼️ Responsive Image Gallery
 
@@ -129,7 +122,6 @@ Features include:
 - CSS3
 - JavaScript
 
----
 
 ## 🎓 Education
 
@@ -149,7 +141,6 @@ Features include:
 
 **Percentage:** 85.03%
 
----
 
 ## 💡 Soft Skills
 
@@ -158,15 +149,12 @@ Features include:
 - Teamwork
 - Time Management
 
----
-
 ## 🌍 Languages
 
 - English
 - Hindi
 - Marathi
 
----
 
 ## 🧰 Technologies Used
 
@@ -179,7 +167,6 @@ Features include:
 | GitHub | Repository and deployment |
 | VS Code | Development environment |
 
----
 
 ## 📁 Project Structure
 
